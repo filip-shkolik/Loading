@@ -1,4 +1,4 @@
-# Loading
+# Loading ⌚
 
 https://filip-shkolik.github.io/Loading/
 
